@@ -1,4 +1,6 @@
-<h3 align="center">A crackerjack MERN Stack Developer</h3>
+<h2 align="center">Hi, This is Shad Ullah Sakib.</h2>
+
+<h3 align="center">Crackerjack MERN Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shad" alt="shad" /></a> </p>
 
