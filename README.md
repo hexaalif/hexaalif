@@ -1,7 +1,17 @@
-<h2 align="center">Hi there wave, I am Sakib
+<h2 align="center">Hi there, I am Sakib
 </h2>
 
 <h3 align="center">Crackerjack MERN Stack Developer</h3>
+
+<p><b>Skills</b></p>
+<ul>
+  <li> 
+    ❖ Front-end: Tailwind CSS, Bootstrap-5, Material UI, JavaScript, ES6, React, Firebase
+    ❖ Back-end: Nodejs, Express.js, MongoDB
+    ❖ Familiar: JWT, Redux, GraphQL, EmailJs, stripe, Payment Gateway
+    ❖ Tools: Vs Code, Github, Heroku, Chrome Dev Tools, Figma, Netlify
+  </li>
+</ul>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shad" alt="shad" /></a> </p>
 
